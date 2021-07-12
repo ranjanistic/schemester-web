@@ -39,7 +39,7 @@
     "fs": "0.0.1-security",
     "helmet": "^4.6.0",
     "jsonwebtoken": "^8.5.1",
-    "mongodb": "^3.6.6",
+    "mongodb": "^3.6.10",
     "nodemailer": "^6.6.0",
     "pusher": "^5.0.0",
     "workbox-cli": "^6.1.5"
